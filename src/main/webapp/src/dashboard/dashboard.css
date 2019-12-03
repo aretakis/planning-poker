@@ -1,0 +1,11 @@
+.error-message {
+  color: red;
+}
+
+.custom-input {
+  display: inline-block;
+  margin: 15px 10px 15px 0px;
+  height: 40px;
+  width: 200px;
+  border-radius: 1px;
+}

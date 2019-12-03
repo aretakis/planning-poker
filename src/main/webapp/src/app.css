@@ -1,0 +1,37 @@
+.inner-container {
+    margin: 50px 120px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+}
+
+.margin-top {
+    margin-top: 10px;
+}
+
+.margin-top--md {
+    margin-top: 20px;
+}
+
+.margin-bottom--md {
+    margin-bottom: 20px;
+}
+
+.margin-bottom--lg {
+    margin-bottom: 30px;
+}
+
+.margin-bottom--xl {
+    margin-bottom: 40px;
+}
+
+.margin-left {
+    margin-left: 10px;
+}
+
+.margin-right {
+    margin-right: 10px;
+}
